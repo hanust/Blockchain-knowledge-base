@@ -17,7 +17,7 @@ Blockchain System and Demos
 
 ### Globally Distributed Ledger/Database
 + Carousel: Low-Latency Transaction Processing for Globally-Distributed Data [Sigmod 2018]  {[paper](https://cs.uwaterloo.ca/~bernard/carousel-sigmod-2018.pdf)}
-
+    > globally-distributed data; distributed transactions
 
 ## Tutorials
 
